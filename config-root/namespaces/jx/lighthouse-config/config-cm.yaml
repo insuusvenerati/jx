@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - insuusvenerati/jx
-      target_url: http://lighthouse-jx./merge/status
+      target_url: http://lighthouse-jx.172.18.255.1.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
